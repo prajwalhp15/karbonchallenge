@@ -58,10 +58,6 @@ This makes the project scalable, robust, and production-ready.
     
 
 
-
-
-
-```
 Requirements
 Python 3.13
 
@@ -94,9 +90,5 @@ Handling inconsistent PDF layouts
 Building extensible, modular architectures
 Importance of validation, testing, and clean documentation
 
-Conclusion
-
-Carbon AI showcases practical AI workflow design, modular architecture, and automation skills.
-It demonstrates the ability to plan, implement, and deliver real-world solutions, making it a strong project for HRs and interviewers to evaluate.
-Built with dedication by    
+   
                            
