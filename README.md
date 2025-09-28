@@ -90,5 +90,7 @@ Handling inconsistent PDF layouts
 Building extensible, modular architectures
 Importance of validation, testing, and clean documentation
 
+By-Prajwal H P
+
    
                            
