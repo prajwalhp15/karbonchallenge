@@ -1,12 +1,5 @@
 # Carbon AI – Intelligent Bank Statement Parser Agent
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Python-3.13-blue?style=for-the-badge&logo=python" />
-  <img src="https://img.shields.io/badge/Framework-LangGraph%20%7C%20Streamlit-green?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Status-Completed-success?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Focus-AI%20and%20Automation-orange?style=for-the-badge" />
-</p>
-
 ---
 <img width="1019" height="577" alt="Screenshot 2025-09-28 192708" src="https://github.com/user-attachments/assets/80476677-0f32-44e7-846b-f730d804fa0e" />
 
